@@ -1,0 +1,25 @@
+{
+  "flagConf": {
+    "WARN": {
+      "capture": true,
+      "emit": true
+    },
+    "ERROR": {
+      "capture": true,
+      "emit": true
+    },
+    "INFO": {
+      "capture": true,
+      "emit": true
+    },
+    "DEBUG": {
+      "capture": false,
+      "emit": false
+    }
+  },
+  "serviceConf": {
+
+  },
+  "stdout": true,
+  "logDir": "O:\\Storage\\Logs\\SkillIssuesNet"
+}

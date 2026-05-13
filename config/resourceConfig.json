@@ -1,0 +1,12 @@
+{
+  "resourceDir": "./assets/json/",
+  "configDir": "./config/",
+  "resources": [
+
+  ],
+  "configs": [
+    "serverConfig.json",
+    "databaseConfig.json",
+    "loggerConfig.json"
+  ]
+}
