@@ -1,0 +1,20 @@
+# Skill Issues Central
+
+## The central organiser for everything Skill Issues Inc.
+
+Within this program is a server that provides functionality such as member management, access to bungie game data, admin and resource functions as well as includes both a RESTful API accessible from a single web application as well as a WebSocket for the Official Dork-13 Skill Issues Inc. Discord bot to connect to.
+
+The current planned list of services and functionality:
+
+- **Resource Management**: Skill Issues Inc. has several packages of assets such as images, sounds, JSON data and other bits that will be accessible to fetch, update, remove and so on and so forth
+
+- **Member Management**: Managing member privellages on the discord server as well as the API and planned web application  
+
+- **Activity Management**: Currently Dork-13 manages activities itself, but this will be moved here in the future for more centralised management  
+
+- **Bungie Data Access**: Skill Issues Central will be the sole place Skill Issues Inc. projects acquire bungie game data, including player specific data.
+
+- **Vanguard Mentor**: A prototype of an AI Destiny 2 Player Coach providing several layers of tutoring to new players. When refined and implemented, it will be V1.0 of the Vanguard Mentor.
+
+- **Admin and Moderator Tools**: Several tools available to admin
+
